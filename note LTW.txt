@@ -1,0 +1,32 @@
+id, tinyint: int
+decimal: double
+nvarchar: varchar
+text, enum: String
+byte: int (0,1)
+
+array: tạo bảng
+Thuộc tính: như word
+
+IDAO: I + tên + DAO  ->>>> IViduDAO
+DAO: tên + DAO ->>>> ViduDAO
+
+IService: I + tên + Service ->>>> IViduService
+Service: tên + Service ->>>> ViduService
+
+Controller: tên + Controller ->>>> ViduController
+
+Model: tên ->>>> Vidu
+
+Thêm: insert
+Cập nhật: update
+Xoá: delete
+Lấy tất cả: findAll
+Lấy 1 cái gì theo cái gì đó: findOneBy + tên(Name, Id) 
+Lấy một số cái gì theo cái gì đó: findBy + tên(Name, Id)
+Phân trang: findPage
+Lấy một số đầu: getTop + số lượng 
+Lấy tiếp theo: getNext
+
+Tuần 11: DB, DAO, Service, Model, View
+Tuần 12: CRUD, phân trang
+Tuần 13: Họp làm login, phân quyền
