@@ -10,7 +10,7 @@
 		<servlet.api.version>4.0.1</servlet.api.version>
 		<jsp.api.version>2.3.3</jsp.api.version>
 		<jstl.version>1.2</jstl.version>
-		<mysql.version>8.0.30</mysql.version>
+		<mysql.version>8.0.33</mysql.version>
 		<sitemesh.version>2.4.2</sitemesh.version>
 		<beanutils.version>1.9.4</beanutils.version>
 		<jackson.core.version>2.6.3</jackson.core.version>
